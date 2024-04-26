@@ -2,4 +2,4 @@
 module20 supervised learning
 
 
-supervised learning module to assesse credit scores
+supervised learning module to assesse credit risk
